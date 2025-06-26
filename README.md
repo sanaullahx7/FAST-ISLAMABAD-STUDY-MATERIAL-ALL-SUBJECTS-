@@ -8,4 +8,3 @@ This includes:
 5) Books
 6) Projects
    
-   
