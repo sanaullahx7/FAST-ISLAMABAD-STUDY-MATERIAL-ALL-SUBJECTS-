@@ -1,5 +1,5 @@
 FAST ALL SUBJECTS STUDY MATERIAL.
-This includes:
+This  includes:
 
 1) Lectures Slides
 2) Assignments
